@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ErrorHandlingTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-07-30T11:46:25" hostname="DESKTOP-FT9E64M" time="0.05">
+  <properties/>
+  <testcase name="testThrowIllegalArgumentExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.044"/>
+  <testcase name="testReturnOptionalInstance" classname="ErrorHandlingTest" time="0.0"/>
+  <testcase name="testThrowCustomUncheckedException" classname="ErrorHandlingTest" time="0.001"/>
+  <testcase name="testThrowCustomCheckedExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.001"/>
+  <testcase name="testThrowCustomUncheckedExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.0"/>
+  <testcase name="testThrowIllegalArgumentException" classname="ErrorHandlingTest" time="0.001"/>
+  <testcase name="testThrowAnyUncheckedException" classname="ErrorHandlingTest" time="0.0"/>
+  <testcase name="testThrowAnyCheckedExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.001"/>
+  <testcase name="testThrowAnyCheckedException" classname="ErrorHandlingTest" time="0.001"/>
+  <testcase name="testThrowAnyUncheckedExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.0"/>
+  <testcase name="testThrowCustomCheckedException" classname="ErrorHandlingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
